@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e672a5ee-7135-40eb-8bb8-5fa4aa758d37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab5/JKtowersOfHanoi$rod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/JKtowersOfHanoi$rod.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lab5/JKtowersOfHanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/JKtowersOfHanoi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JKtowersOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JKtowersOfHanoi.java" afterDir="false" />
     </list>
@@ -78,8 +78,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/JKtowersOfHanoi.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="1" />
+          <line>49</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
